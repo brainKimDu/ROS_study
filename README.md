@@ -28,6 +28,15 @@
 
 (일이 생기면 미룰 수 있음)
 
+## 주의사항 (저작권관련)
+- ROS2 documentation의 코드를 그대로 가져다가 쓰는 경우, 이를 인터넷상에 올리는 경우 저작권상으로 주의해야합니다.
+![image](https://user-images.githubusercontent.com/110883172/208965564-3f1980c6-5a3a-4611-b27e-9ba12b86a268.png)
+- license declaration 부분에 Apache License 2.0 을 추가해야합니다.
+- <license>Apache License 2.0</license>
+- 추가로 python에서 setup.py에도 license를 적는 부분이 있습니다. 거기도 위와 같이 수정해야합니다.
+
+
+
 ## 참고자료
 - ROS documentation 
 https://docs.ros.org/en/galactic/Tutorials/Miscellaneous.html
